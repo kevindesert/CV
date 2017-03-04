@@ -1,0 +1,62 @@
+body
+{
+  background-image:url(loveindia.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+aside
+{
+  text-align: center;
+  color: white;
+}
+.exp
+{
+  text-align: center;
+  border-style: solid;
+  color: white;
+}
+.form
+{
+  text-align: center;
+  border-style: solid;
+  color: white;
+}
+.comp
+{
+  text-align: center;
+  border-style: solid;
+  color: white;
+}
+.lang
+{
+  text-align: center;
+  border-style: solid;
+  color: white;
+}
+.inte
+{
+  text-align: center;
+  border-style: solid;
+  color: white;
+}
+.logolink
+{
+  margin-left: 35em;
+}
+.titreprincipale
+{
+  color: white;
+  margin-left: 10.5em;
+  text-decoration: none;
+}
+h1
+{
+  text-decoration: underline;
+}
+.accroche
+{
+  text-align: center;
+  font-style: italic;
+  color: #0099FF;
+}
